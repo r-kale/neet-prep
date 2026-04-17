@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vite
+
+# Generated at build time from data-source/
+public/data/
