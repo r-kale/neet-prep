@@ -1,13 +1,13 @@
 # NEET Prep — Mistake Review & Practice
 
-A personal, offline-capable study tool built on your Akash practice-test analysis and 5,546 NEET past-year questions (2006–2025).
+A personal, offline-capable study tool built on your Akash practice-test analysis (900 graded questions across 5 papers, with reconciled answer keys) and 5,546 NEET past-year questions (2006–2025).
 
 ## Features
 
 | Feature | What it does |
 |---|---|
 | **Dashboard** | Score cards, subject/difficulty charts, top-10 weak topics |
-| **Mistakes** | Browse all 219 incorrect/not-attempted Akash questions with filters |
+| **Mistakes** | Browse all incorrect/not-attempted Akash questions with filters |
 | **Mistake detail** | Your answer vs correct, rough-work audit, explanation, + similar PYQs via topic matching |
 | **Practice** | Filter 5,546 PYQs by subject, year, difficulty, topic, syllabus; launch a quiz |
 | **Quiz** | One question at a time, instant reveal, crash-safe (auto-saves every answer) |

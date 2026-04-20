@@ -21,7 +21,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 8, Section 8.2 (Maxwell's Equations).",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 1,
@@ -45,7 +51,13 @@
     "ncert_reference": "Application-based calculation using Intensity/Energy Density formulas from NCERT Chapter 8.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 3,
+    "student_marked_option": null,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 2,
@@ -69,7 +81,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 14, Section 14.8.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -93,7 +111,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 8, Section 8.3.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -117,7 +141,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 11, Section 11.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -141,7 +171,13 @@
     "ncert_reference": "Application of de-Broglie hypothesis and conservation of momentum.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -165,7 +201,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 8, Section 8.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -189,7 +231,13 @@
     "ncert_reference": "Advanced application of Photoelectric Effect.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": null,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 2,
@@ -213,7 +261,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 8, Section 8.3.3 (Relation between speed of light and medium properties).",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 4,
@@ -237,7 +291,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 9 (Application of Lens Maker's Formula and Mirror Formula).",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 4,
@@ -261,7 +321,13 @@
     "ncert_reference": "Application of integration to the normal shift formula $t(1-1/\\\\mu)$ found in NCERT Chapter 9.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 3,
+    "student_marked_option": null,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 4,
@@ -285,7 +351,13 @@
     "ncert_reference": "NCERT Chapter 9 (Combination of thin lenses and Lens Maker's formula in media).",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 4,
@@ -309,7 +381,13 @@
     "ncert_reference": "Conceptual fact from NCERT Physics Class 12, Chapter 9.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 1,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 4,
@@ -333,7 +411,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 9, Section 9.5 (Dispersion).",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 4,
@@ -343,21 +427,27 @@
       "topic": "Ray Optics",
       "sub_topic": "Prism"
     },
-    "question_text": "For a prism having apex angle 60\u00b0, the angle of refraction on the first surface in minimum deviation condition, will be",
+    "question_text": "For a prism having apex angle 60°, the angle of refraction on the first surface in minimum deviation condition, will be",
     "options": {
-      "1": "30\u00b0",
-      "2": "60\u00b0",
-      "3": "100\u00b0",
-      "4": "120\u00b0"
+      "1": "30°",
+      "2": "60°",
+      "3": "100°",
+      "4": "120°"
     },
     "correct_option": 1,
-    "explanation": "At minimum deviation, $r_1 = r_2 = r$. Since $r_1 + r_2 = A$, we have $2r = A$. Given $A = 60\u00b0$, $r = 30\u00b0$.",
+    "explanation": "At minimum deviation, $r_1 = r_2 = r$. Since $r_1 + r_2 = A$, we have $2r = A$. Given $A = 60°$, $r = 30°$.",
     "rough_work_audit": "Simple calculation $A/2 = 30$. Logic is sound.",
     "difficulty": "Easy",
     "ncert_reference": "NCERT Class 12 Physics, Chapter 9, Section 9.6.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -381,7 +471,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 9, Section 9.9.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 5,
@@ -405,7 +501,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 14, Section 14.8.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -429,7 +531,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 10, Section 10.4.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -453,7 +561,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 13, Section 13.5.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 1,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 5,
@@ -477,7 +591,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 10, Section 10.5.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 5,
@@ -501,7 +621,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 10 (Conceptual application of path difference).",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 4,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -525,7 +651,13 @@
     "ncert_reference": "Advanced concept typically taught alongside NCERT Chapter 10.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 6,
@@ -549,7 +681,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 12, Section 12.4.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 6,
@@ -573,7 +711,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 12, Section 12.5.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 1,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 6,
@@ -597,7 +741,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 12, Section 12.4.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -621,7 +771,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 12 (Conceptual).",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 6,
@@ -645,7 +801,13 @@
     "ncert_reference": "Extension of Bohr's model formulas from NCERT Chapter 12.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 6,
@@ -669,7 +831,13 @@
     "ncert_reference": "Application of Conservation of Momentum to Bohr's model.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -693,7 +861,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 13, Section 13.4.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": 2,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 6,
@@ -717,7 +891,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 12, Section 12.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -741,7 +921,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 13, Section 13.7.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -765,7 +951,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 8 (EM Waves) and Chapter 13 (Nuclei - Mass Energy).",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": null,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 8,
@@ -789,7 +981,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 13, Section 13.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -813,7 +1011,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 10, Section 10.7.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -837,7 +1041,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 14, Section 14.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -861,7 +1071,13 @@
     "ncert_reference": "Application of Kirchhoff's laws and Diode characteristics.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -885,7 +1101,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 10, Section 10.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -909,7 +1131,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 9, Section 9.2.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -933,7 +1161,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 14, Section 14.9.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 4,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 9,
@@ -957,7 +1191,13 @@
     "ncert_reference": "NCERT Class 11 Physics, Chapter 15 (Waves - Resonance tube experiment).",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": null,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 9,
@@ -981,7 +1221,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 9 (Experimental application of Lens Formula).",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 9,
@@ -1005,7 +1251,13 @@
     "ncert_reference": "NCERT Class 11 Physics, Chapter 2 (Units and Measurements).",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 9,
@@ -1029,7 +1281,13 @@
     "ncert_reference": "NCERT Class 11 Physics, Chapter 2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 9,
@@ -1053,7 +1311,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 11, Section 11.6.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 9,
@@ -1077,7 +1341,13 @@
     "ncert_reference": "NCERT Class 12 Physics, Chapter 9 (Mirror formula and angular size).",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "CLAUDE_OVERRODE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1095,13 +1365,19 @@
       "4": "(ii) > (iii) > (i)"
     },
     "correct_option": 1,
-    "explanation": "Solvolysis in aqueous ethanol follows the $S_N1$ mechanism. The rate of $S_N1$ is proportional to the stability of the carbocation formed. \\n(i) Forms $Ph-CH_2^+$ (1\u00b0 benzylic)\\n(ii) Forms $Ph-CH^+-CH_3$ (2\u00b0 benzylic)\\n(iii) Forms $Ph-C^+(CH_3)_2$ (3\u00b0 benzylic)\\nStability: 3\u00b0 benzylic > 2\u00b0 benzylic > 1\u00b0 benzylic. Thus, the rate is (iii) > (ii) > (i).",
+    "explanation": "Solvolysis in aqueous ethanol follows the $S_N1$ mechanism. The rate of $S_N1$ is proportional to the stability of the carbocation formed. \\n(i) Forms $Ph-CH_2^+$ (1° benzylic)\\n(ii) Forms $Ph-CH^+-CH_3$ (2° benzylic)\\n(iii) Forms $Ph-C^+(CH_3)_2$ (3° benzylic)\\nStability: 3° benzylic > 2° benzylic > 1° benzylic. Thus, the rate is (iii) > (ii) > (i).",
     "rough_work_audit": "Student wrote 'SN1' near the question, correctly identifying the mechanism.",
     "difficulty": "Easy",
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 10, Section 10.6.2.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1125,7 +1401,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Section 12.5.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1149,7 +1431,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 14, Section 14.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 4,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 10,
@@ -1173,7 +1461,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 14, Table 14.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1197,7 +1491,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 14, Section 14.5.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1221,7 +1521,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 14, Table 14.2.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 1,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 10,
@@ -1245,7 +1551,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 14, Section 14.1.2.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 1,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 10,
@@ -1269,7 +1581,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Section 12.8.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1293,7 +1611,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 13 (Amines) and Chapter 12 (Nitrile hydrolysis).",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": null,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 11,
@@ -1317,7 +1641,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 13, Section 13.4.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1341,7 +1671,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 10, Section 10.6.1.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1365,7 +1701,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapters 10 and 12 (Named Reactions sections).",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1389,7 +1731,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Section 12.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 11,
@@ -1413,7 +1761,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Section 12.5.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 4,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 12,
@@ -1437,7 +1791,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 11 (Glycerol reactions) and Chapter 12 (Acids).",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 12,
@@ -1461,7 +1821,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 13, Section 13.6 and 13.9.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 12,
@@ -1485,7 +1851,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 10, Section 10.5.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -1509,7 +1881,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 10 (Nucleophilic Substitution mechanism).",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -1533,7 +1911,13 @@
     "ncert_reference": "Application based on Chapter 10 (Nucleophilic substitution in aryl halides).",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "CLAUDE_OVERRODE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -1557,7 +1941,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 11, Section 11.4.4.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -1581,7 +1971,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12 (Chemical properties of carboxylic acid derivatives).",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -1605,7 +2001,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Section 12.6.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -1629,7 +2031,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Section 12.4.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 4,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 13,
@@ -1653,7 +2061,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 11, Section 11.6.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -1677,7 +2091,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 11, Section 11.4.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 13,
@@ -1701,7 +2121,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 14, Section 14.1.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 3,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 14,
@@ -1725,7 +2151,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 13, Sections 13.4.2 and 13.4.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -1749,7 +2181,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 10, Section 10.6.1.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -1767,13 +2205,19 @@
       "4": "2-Methylbutan-1-ol"
     },
     "correct_option": 3,
-    "explanation": "Victor Meyer's Test colors: \\n1\u00b0 Alcohol $\\\\rightarrow$ Blood Red \\n2\u00b0 Alcohol $\\\\rightarrow$ Blue \\n3\u00b0 Alcohol $\\\\rightarrow$ Colourless \\nAmong the options: \\n1. 2-Methylpropan-1-ol (1\u00b0) \\n2. 2-Methylpropan-2-ol (3\u00b0) \\n3. Butan-2-ol (2\u00b0) $\\\\rightarrow$ Blue colour \\n4. 2-Methylbutan-1-ol (1\u00b0)",
-    "rough_work_audit": "Student correctly noted '2\u00b0' next to Butan-2-ol.",
+    "explanation": "Victor Meyer's Test colors: \\n1° Alcohol $\\\\rightarrow$ Blood Red \\n2° Alcohol $\\\\rightarrow$ Blue \\n3° Alcohol $\\\\rightarrow$ Colourless \\nAmong the options: \\n1. 2-Methylpropan-1-ol (1°) \\n2. 2-Methylpropan-2-ol (3°) \\n3. Butan-2-ol (2°) $\\\\rightarrow$ Blue colour \\n4. 2-Methylbutan-1-ol (1°)",
+    "rough_work_audit": "Student correctly noted '2°' next to Butan-2-ol.",
     "difficulty": "Easy",
     "ncert_reference": "Supplementary topic often included with NCERT Chapter 11 (Qualitative analysis).",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -1797,7 +2241,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Section 12.5.1.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -1821,7 +2271,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 11, Section 11.4.4.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -1839,13 +2295,19 @@
       "4": "(ii) > (iii) > (i)"
     },
     "correct_option": 1,
-    "explanation": "Reaction with KI/Acetone follows the $S_N2$ mechanism. \\n1. $\\\\alpha$-halocarbonyl compounds (ii) are exceptionally reactive in $S_N2$ because the transition state is stabilized by the adjacent carbonyl group. \\n2. Benzyl chloride (i) is reactive due to the electronic stabilization of the transition state by the benzene ring. \\n3. Isopropyl chloride (iii) is a 2\u00b0 halide and is the slowest due to steric hindrance. \\nOrder: (ii) > (i) > (iii).",
+    "explanation": "Reaction with KI/Acetone follows the $S_N2$ mechanism. \\n1. $\\\\alpha$-halocarbonyl compounds (ii) are exceptionally reactive in $S_N2$ because the transition state is stabilized by the adjacent carbonyl group. \\n2. Benzyl chloride (i) is reactive due to the electronic stabilization of the transition state by the benzene ring. \\n3. Isopropyl chloride (iii) is a 2° halide and is the slowest due to steric hindrance. \\nOrder: (ii) > (i) > (iii).",
     "rough_work_audit": "Student correctly noted 'SN2' and 'ii > i > iii'. Sound logic.",
     "difficulty": "Hard",
     "ncert_reference": "Advanced application of SN2 trends from NCERT Chapter 10.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -1869,7 +2331,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 13, Section 13.9 (Detailed reduction products).",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 15,
@@ -1893,7 +2361,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 10, Section 10.7.2.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 2,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 15,
@@ -1917,7 +2391,13 @@
     "ncert_reference": "Supplementary topic related to NCERT Chapter 11 (Electrophilic substitution of phenols).",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "CLAUDE_OVERRODE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -1941,7 +2421,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 13, Section 13.5.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -1965,7 +2451,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12, Sections 12.2.1 and 12.5.2.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -1989,7 +2481,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 11, Section 11.6.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 3,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 16,
@@ -2013,7 +2511,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 10, Section 10.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 16,
@@ -2037,7 +2541,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapters 10 and 11.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2061,7 +2571,13 @@
     "ncert_reference": "Advanced topic related to NCERT Chapter 11 (Alcohols).",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2085,7 +2601,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 14, Section 14.5.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2109,7 +2631,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 13, Table 13.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 3,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 16,
@@ -2133,7 +2661,13 @@
     "ncert_reference": "NCERT Class 12 Chemistry, Chapter 12 (Chemical properties of acids).",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "CLAUDE_OVERRODE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2157,7 +2691,13 @@
     "ncert_reference": "Advanced concept related to Tautomerism in Chapter 12.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 17,
@@ -2181,7 +2721,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.1.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -2205,7 +2751,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.1.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -2229,7 +2781,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Section 10.4.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -2253,7 +2811,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.2.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -2277,7 +2841,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.5.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -2301,7 +2871,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.1.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -2325,7 +2901,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Introductory scientist profile before Unit X.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -2349,7 +2931,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.1.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 17,
@@ -2373,7 +2961,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Section 10.2.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2397,7 +2991,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Section 10.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2421,7 +3021,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 1,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 18,
@@ -2445,7 +3051,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapters 13 and 14.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 4,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 18,
@@ -2469,7 +3081,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2493,7 +3111,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.4.2.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2517,7 +3141,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.1.2.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2541,7 +3171,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Section 10.4.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2565,7 +3201,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.9.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2589,7 +3231,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.1.2.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -2613,7 +3261,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.5.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2637,7 +3291,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.5.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2661,7 +3321,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.9.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2685,7 +3351,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.4.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2709,7 +3381,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.2.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2733,7 +3411,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "CLAUDE_OVERRODE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2757,7 +3441,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2781,7 +3471,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.2.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2805,7 +3501,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Sections 10.1 and 10.5.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2829,7 +3531,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Section 10.5.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2853,7 +3561,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.8 and 6.6.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -2877,7 +3591,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.2.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -2895,13 +3615,19 @@
       "4": "Non-sense mutation in regulator gene will lead to constitutive expression of z gene"
     },
     "correct_option": 2,
-    "explanation": "Statement (2) is incorrect because the Lac operon was elucidated by the geneticist Fran\u00e7ois Jacob and the biochemist Jacques Monod. Har Gobind Khorana and Marshall Nirenberg were instrumental in deciphering the genetic code.",
+    "explanation": "Statement (2) is incorrect because the Lac operon was elucidated by the geneticist François Jacob and the biochemist Jacques Monod. Har Gobind Khorana and Marshall Nirenberg were instrumental in deciphering the genetic code.",
     "rough_work_audit": "No scribbles; factual history of molecular biology.",
     "difficulty": "Easy",
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.6.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -2925,7 +3651,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.1.2.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -2949,7 +3681,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Section 10.1 and 10.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -2973,7 +3711,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.6.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -2997,7 +3741,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.4.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3021,7 +3771,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 13, Section 13.1.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3045,7 +3801,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.1.2.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3069,7 +3831,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 10, Section 10.1.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3093,7 +3861,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3117,7 +3891,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3141,7 +3921,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.4.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3165,7 +3951,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapters 10, 14, and 6.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3189,7 +3981,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 6, Section 6.1.2.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 21,
@@ -3213,7 +4011,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3237,7 +4041,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 14, Section 14.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3261,7 +4071,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.1.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -3285,7 +4101,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.1.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -3309,7 +4131,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -3333,7 +4161,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.2.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -3357,7 +4191,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -3381,7 +4221,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.2.",
     "student_answer": null,
     "question_paper": "pst-03a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -3405,7 +4251,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Figure 11.4.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -3429,7 +4281,13 @@
     "ncert_reference": "NCERT Class 11 and 12 Biology, Scientist profiles.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 23,
@@ -3453,7 +4311,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3477,7 +4341,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.1.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3501,7 +4371,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 9, Section 9.5.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3525,7 +4401,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.1.1.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3549,7 +4431,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.1.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3573,7 +4461,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3597,7 +4491,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.2.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3621,7 +4521,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3645,7 +4551,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.3.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -3669,7 +4581,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.2.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -3693,7 +4611,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -3717,7 +4641,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -3741,7 +4671,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -3765,7 +4701,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.3.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -3789,7 +4731,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.3.4.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -3813,7 +4761,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.2.2.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -3837,7 +4791,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.3.5.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -3861,7 +4821,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.2.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -3885,7 +4851,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.3.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -3909,7 +4881,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.2.1.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -3933,7 +4911,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.2.3.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -3957,7 +4941,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.1.1.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -3981,7 +4971,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.4.1.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 26,
@@ -4005,7 +5001,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.4.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 26,
@@ -4029,7 +5031,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.3.5.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 26,
@@ -4053,7 +5061,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.4.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 26,
@@ -4077,7 +5091,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.4.1.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 26,
@@ -4101,7 +5121,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.3.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 26,
@@ -4125,7 +5151,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.3.1.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -4149,7 +5181,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3 (Hormonal control section).",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -4173,7 +5211,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3 (Menstrual Cycle) and Chapter 4 (Contraception).",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -4197,7 +5241,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.3.1.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 24,
@@ -4221,7 +5271,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.4.1.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -4245,7 +5301,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 12, Section 12.2.",
     "student_answer": 3,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -4269,7 +5331,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.3.1.",
     "student_answer": 4,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -4293,7 +5361,13 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 3, Section 3.4.",
     "student_answer": 1,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 25,
@@ -4317,6 +5391,12 @@
     "ncert_reference": "NCERT Class 12 Biology, Chapter 11, Section 11.2.2.",
     "student_answer": 2,
     "question_paper": "pst-03a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   }
 ]

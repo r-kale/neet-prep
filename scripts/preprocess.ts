@@ -123,26 +123,40 @@ function tokenize(input: string): { unigrams: string[]; bigrams: string[] } {
 type RawAkash = {
   q_no: number;
   subject: string;
+  chapter?: string;
   meta_data?: { topic?: string; sub_topic?: string };
   question_text: string;
   options: Record<string, string>;
   correct_option: number;
   explanation: string;
-  rough_work_audit: string;
+  // Older shape: single audit string. Newer shape: split transcript + inference.
+  rough_work_audit?: string;
+  rough_work_transcript?: string;
+  rough_work_inference?: string;
   difficulty: string;
   ncert_reference: string;
-  student_answer: number | null;
-  question_paper: string;
-  result: string;
+  // Pre-reconciliation fields (older shape only).
+  student_answer?: number | null;
+  question_paper?: string;
+  result?: string;
+  // Reconciliation fields (present in all current files).
+  official_option?: number;
+  student_marked_option?: number | null;
+  final_correct_option?: number;
+  reconciliation_status?: string;
+  student_result?: string;
+  marks_awarded?: number;
 };
 
 function loadAkash(): AkashQuestion[] {
   // The embedded `question_paper` field in the raw JSON is unreliable —
-  // both pst01a.json and pst03a.json have "pst-03a" hardcoded — so the filename wins.
+  // some papers have the wrong code hardcoded — so the filename wins.
   const files: Array<{ file: string; paper: string }> = [
+    { file: "cst01.json", paper: "cst-01" },
     { file: "cst02a.json", paper: "cst-02a" },
+    { file: "cst03a.json", paper: "cst-03a" },
+    { file: "cst05a.json", paper: "cst-05a" },
     { file: "pst01a.json", paper: "pst-01a" },
-    { file: "pst03a.json", paper: "pst-03a" },
   ];
   const all: AkashQuestion[] = [];
   for (const { file, paper } of files) {
@@ -157,19 +171,33 @@ function loadAkash(): AkashQuestion[] {
         "3": r.options?.["3"] ?? "",
         "4": r.options?.["4"] ?? "",
       };
-      const correct_option = clampOpt(r.correct_option);
+      // Prefer the reconciled answer when available; fall back to raw key.
+      const correct_option = clampOpt(r.final_correct_option ?? r.correct_option);
+
+      // Prefer student_marked_option (post-reconciliation truth) over student_answer.
+      const markedRaw =
+        r.student_marked_option !== undefined ? r.student_marked_option : r.student_answer;
       const student_answer =
-        r.student_answer === 1 || r.student_answer === 2 || r.student_answer === 3 || r.student_answer === 4
-          ? (r.student_answer as 1 | 2 | 3 | 4)
+        markedRaw === 1 || markedRaw === 2 || markedRaw === 3 || markedRaw === 4
+          ? (markedRaw as 1 | 2 | 3 | 4)
           : null;
-      const result =
-        r.result === "Correct" || r.result === "Incorrect" || r.result === "Not Attempted"
-          ? r.result
-          : student_answer === null
-            ? "Not Attempted"
-            : student_answer === correct_option
-              ? "Correct"
-              : "Incorrect";
+
+      // Prefer student_result (reconciled) over the legacy `result` field.
+      let result: "Correct" | "Incorrect" | "Not Attempted";
+      const sr = r.student_result?.toUpperCase();
+      if (sr === "CORRECT") result = "Correct";
+      else if (sr === "WRONG" || sr === "INCORRECT") result = "Incorrect";
+      else if (sr === "UNATTEMPTED" || sr === "NOT ATTEMPTED") result = "Not Attempted";
+      else if (r.result === "Correct" || r.result === "Incorrect" || r.result === "Not Attempted") {
+        result = r.result;
+      } else if (student_answer === null) result = "Not Attempted";
+      else if (student_answer === correct_option) result = "Correct";
+      else result = "Incorrect";
+
+      // Merge rough work fields: prefer the legacy single audit; otherwise concatenate.
+      const roughWork =
+        r.rough_work_audit ??
+        [r.rough_work_transcript, r.rough_work_inference].filter(Boolean).join("\n\n");
 
       all.push({
         id: `akash-${paper}-${r.q_no}`,
@@ -185,7 +213,7 @@ function loadAkash(): AkashQuestion[] {
         student_answer,
         result,
         explanation: r.explanation ?? "",
-        rough_work_audit: r.rough_work_audit ?? "",
+        rough_work_audit: roughWork ?? "",
         difficulty: normalizeDifficulty(r.difficulty),
         ncert_reference: r.ncert_reference ?? "",
         has_diagram: hasDiagramMarker(r.question_text ?? ""),

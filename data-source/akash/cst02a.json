@@ -21,7 +21,13 @@
     "ncert_reference": "Direct NCERT Fact (Class XII Chemistry - Electrochemistry)",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 1,
@@ -45,7 +51,13 @@
     "ncert_reference": "Direct application of Kohlrausch's Law (NCERT Class XII)",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 1,
@@ -69,7 +81,13 @@
     "ncert_reference": "NCERT Class XII - p-Block Elements (Sulphur Oxoacids section)",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 2,
@@ -93,7 +111,13 @@
     "ncert_reference": "NCERT Class XII - Practical Chemistry / Qualitative Analysis",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": null,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 2,
@@ -117,7 +141,13 @@
     "ncert_reference": "NCERT Class XII - Biomolecules",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 2,
@@ -141,7 +171,13 @@
     "ncert_reference": "NCERT Class XII - Biomolecules",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -165,7 +201,13 @@
     "ncert_reference": "NCERT Class XII - Chemical Kinetics",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -189,7 +231,13 @@
     "ncert_reference": "NCERT Class XII - Chemical Kinetics",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -213,7 +261,13 @@
     "ncert_reference": "NCERT Class XII - Coordination Compounds",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -237,7 +291,13 @@
     "ncert_reference": "NCERT Class XII - Coordination Compounds (VBT section)",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 2,
@@ -261,7 +321,13 @@
     "ncert_reference": "NCERT Class XII - Aldehydes, Ketones and Carboxylic Acids",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 3,
+    "student_marked_option": null,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 2,
@@ -285,7 +351,13 @@
     "ncert_reference": "NCERT Class XII - Alcohols, Phenols and Ethers (Preparation of Phenols)",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 3,
@@ -309,7 +381,13 @@
     "ncert_reference": "NCERT Class XII - Aldehydes, Ketones and Carboxylic Acids (Acidity section)",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 3,
@@ -333,7 +411,13 @@
     "ncert_reference": "NCERT Class XII - Alcohols, Phenols and Ethers",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 3,
@@ -357,7 +441,13 @@
     "ncert_reference": "NCERT Class XII - Alcohols, Phenols and Ethers",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 3,
@@ -381,7 +471,13 @@
     "ncert_reference": "NCERT Class XII - Supplementary material/Alcohols",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 3,
@@ -405,7 +501,13 @@
     "ncert_reference": "NCERT Class XI - Chemical Bonding (Bond Enthalpy table)",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 2,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 4,
@@ -429,7 +531,13 @@
     "ncert_reference": "NCERT Class XII - Solutions (van't Hoff factor section)",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 4,
@@ -453,7 +561,13 @@
     "ncert_reference": "NCERT Class XI - Thermodynamics",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 4,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 4,
@@ -477,7 +591,13 @@
     "ncert_reference": "NCERT Class XII - Solutions",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 4,
@@ -501,7 +621,13 @@
     "ncert_reference": "NCERT Class XII - Practical Chemistry (Salt Analysis)",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 4,
@@ -525,7 +651,13 @@
     "ncert_reference": "NCERT Class XII - Amines",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 2,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 4,
@@ -549,7 +681,13 @@
     "ncert_reference": "NCERT Class XI - General Organic Chemistry",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 3,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 4,
@@ -573,7 +711,13 @@
     "ncert_reference": "NCERT Class XII - Practical Chemistry",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": null,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 4,
@@ -597,7 +741,13 @@
     "ncert_reference": "NCERT Class XII - p-Block Elements",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -621,7 +771,13 @@
     "ncert_reference": "NCERT Class XI - Hydrocarbons & Class XII - Phenols",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -645,7 +801,13 @@
     "ncert_reference": "NCERT Class XII - Amines",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -669,7 +831,13 @@
     "ncert_reference": "NCERT Class XII - Amines",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 5,
@@ -693,7 +861,13 @@
     "ncert_reference": "NCERT Class XI - Hydrocarbons",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -717,7 +891,13 @@
     "ncert_reference": "NCERT Class XI - Mole Concept",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -741,7 +921,13 @@
     "ncert_reference": "NCERT Class XI - Equilibrium",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": null,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 5,
@@ -765,7 +951,13 @@
     "ncert_reference": "NCERT Class XI - Equilibrium",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -789,7 +981,13 @@
     "ncert_reference": "NCERT Class XII - d-Block Elements",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 5,
@@ -813,7 +1011,13 @@
     "ncert_reference": "NCERT Class XII - d-Block Elements",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -837,7 +1041,13 @@
     "ncert_reference": "NCERT Class XII - Amines (Sandmeyer Reaction)",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -861,7 +1071,13 @@
     "ncert_reference": "NCERT Class XII - Haloalkanes and Haloarenes",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -885,7 +1101,13 @@
     "ncert_reference": "NCERT Class XI - Structure of Atom",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -909,7 +1131,13 @@
     "ncert_reference": "NCERT Class XI - Structure of Atom",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 6,
@@ -933,7 +1161,13 @@
     "ncert_reference": "NCERT Class XI - p-Block Elements (Group 13)",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 2,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 6,
@@ -957,7 +1191,13 @@
     "ncert_reference": "NCERT Class XI - Redox Reactions",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 7,
@@ -981,7 +1221,13 @@
     "ncert_reference": "NCERT Class XI - Classification of Elements",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 7,
@@ -1005,7 +1251,13 @@
     "ncert_reference": "NCERT Class XII - p-Block Elements",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 7,
@@ -1029,7 +1281,13 @@
     "ncert_reference": "NCERT Class XI - Chemical Bonding",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 2,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 7,
@@ -1053,7 +1311,13 @@
     "ncert_reference": "NCERT Class XI - Chemical Bonding (MOT section)",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 7,
@@ -1077,7 +1341,13 @@
     "ncert_reference": "NCERT Class XI - Chemical Bonding / p-Block Elements",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 7,
@@ -1101,7 +1371,13 @@
     "ncert_reference": "NCERT Class XI - Laws of Motion",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": null,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 7,
@@ -1125,7 +1401,13 @@
     "ncert_reference": "NCERT Class XI - Units and Measurements",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 7,
@@ -1149,7 +1431,13 @@
     "ncert_reference": "NCERT Class XI - Thermal Properties",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": null,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 7,
@@ -1173,7 +1461,13 @@
     "ncert_reference": "NCERT Class XI - Waves",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 8,
@@ -1197,7 +1491,13 @@
     "ncert_reference": "NCERT Class XI - Laws of Motion",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 8,
@@ -1221,7 +1521,13 @@
     "ncert_reference": "NCERT Class XI - Motion in a Straight Line / Plane",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": null,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 8,
@@ -1245,7 +1551,13 @@
     "ncert_reference": "NCERT Class XI - Oscillations",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -1269,7 +1581,13 @@
     "ncert_reference": "NCERT Class XI - Work, Energy and Power",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 8,
@@ -1293,7 +1611,13 @@
     "ncert_reference": "NCERT Class XI - Thermodynamics",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 8,
@@ -1303,7 +1627,7 @@
       "topic": "Kinematics",
       "sub_topic": "Relative Velocity"
     },
-    "question_text": "A ship is travelling due west at 40 km/h. Another ship has velocity 40 km/h 30\u00b0 north to west w.r.t. first ship. The velocity of second ship is (in km/h)",
+    "question_text": "A ship is travelling due west at 40 km/h. Another ship has velocity 40 km/h 30° north to west w.r.t. first ship. The velocity of second ship is (in km/h)",
     "options": {
       "1": "$40\\\\sqrt{2 + \\\\sqrt{3}}$",
       "2": "$20\\\\sqrt{5}$",
@@ -1317,7 +1641,13 @@
     "ncert_reference": "NCERT Class XI - Motion in a Plane",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": null,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 8,
@@ -1329,10 +1659,10 @@
     },
     "question_text": "Velocity at maximum height of projectile is $\\\\frac{1}{2}$ of its initial velocity of projectile. Its angle of projection from the horizontal is",
     "options": {
-      "1": "60\u00b0",
-      "2": "30\u00b0",
-      "3": "45\u00b0",
-      "4": "37\u00b0"
+      "1": "60°",
+      "2": "30°",
+      "3": "45°",
+      "4": "37°"
     },
     "correct_option": 1,
     "explanation": "Velocity at max height is $u\\\\cos \\\theta$. Given $u\\\\cos \\\theta = \\\\frac{1}{2}u$.\n$\\\\cos \\\theta = 1/2 \\\\Rightarrow \\\theta = 60^{\\\\circ}$.",
@@ -1341,7 +1671,13 @@
     "ncert_reference": "NCERT Class XI - Motion in a Plane",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 2,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 8,
@@ -1365,7 +1701,13 @@
     "ncert_reference": "NCERT Class XI - System of Particles and Rotational Motion",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": null,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 9,
@@ -1389,7 +1731,13 @@
     "ncert_reference": "NCERT Class XI - Work, Energy and Power",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -1413,7 +1761,13 @@
     "ncert_reference": "NCERT Class XI - Laws of Motion",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -1437,7 +1791,13 @@
     "ncert_reference": "NCERT Class XI - Thermal Properties of Matter",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -1461,7 +1821,13 @@
     "ncert_reference": "NCERT Class XI - Thermal Properties of Matter",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -1485,7 +1851,13 @@
     "ncert_reference": "NCERT Class XI - Motion in a Straight Line",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -1509,7 +1881,13 @@
     "ncert_reference": "NCERT Class XI - Gravitation",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -1533,7 +1911,13 @@
     "ncert_reference": "NCERT Class XI - Units and Measurements",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 9,
@@ -1557,7 +1941,13 @@
     "ncert_reference": "NCERT Class XI - Mechanical Properties of Fluids",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 3,
+    "student_marked_option": null,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 10,
@@ -1581,7 +1971,13 @@
     "ncert_reference": "NCERT Class XI - Gravitation",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1605,7 +2001,13 @@
     "ncert_reference": "NCERT Class XI - Mechanical Properties of Solids",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1629,7 +2031,13 @@
     "ncert_reference": "NCERT Class XII - Electric Charges and Fields",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1653,7 +2061,13 @@
     "ncert_reference": "NCERT Class XII - Electrostatic Potential",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1677,7 +2091,13 @@
     "ncert_reference": "NCERT Class XII - Electric Charges and Fields",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1701,7 +2121,13 @@
     "ncert_reference": "NCERT Class XII - Current Electricity",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 10,
@@ -1725,7 +2151,13 @@
     "ncert_reference": "NCERT Class XII - Current Electricity",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1749,7 +2181,13 @@
     "ncert_reference": "NCERT Class XII - Moving Charges and Magnetism",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1773,7 +2211,13 @@
     "ncert_reference": "NCERT Class XII - Moving Charges and Magnetism",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1797,7 +2241,13 @@
     "ncert_reference": "NCERT Class XII - Magnetism and Matter",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1821,7 +2271,13 @@
     "ncert_reference": "NCERT Class XII - Electromagnetic Induction",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1845,7 +2301,13 @@
     "ncert_reference": "NCERT Class XII - Electromagnetic Induction",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1869,7 +2331,13 @@
     "ncert_reference": "NCERT Class XII - Alternating Current",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 11,
@@ -1893,7 +2361,13 @@
     "ncert_reference": "NCERT Class XII - Alternating Current",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 11,
@@ -1917,7 +2391,13 @@
     "ncert_reference": "NCERT Class XII - Electromagnetic Waves",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -1941,7 +2421,13 @@
     "ncert_reference": "NCERT Class XII - Ray Optics",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -1965,7 +2451,13 @@
     "ncert_reference": "NCERT Class XII - Ray Optics",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": null,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 12,
@@ -1989,7 +2481,13 @@
     "ncert_reference": "NCERT Class XII - Wave Optics",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -2013,7 +2511,13 @@
     "ncert_reference": "NCERT Class XII - Dual Nature of Matter and Radiation",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -2037,7 +2541,13 @@
     "ncert_reference": "NCERT Class XII - Dual Nature of Matter and Radiation",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -2061,7 +2571,13 @@
     "ncert_reference": "NCERT Class XII - Nuclei",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -2085,7 +2601,13 @@
     "ncert_reference": "NCERT Class XII - Nuclei",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -2109,7 +2631,13 @@
     "ncert_reference": "NCERT Class XII - Dual Nature of Radiation and Matter",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 4,
+    "student_marked_option": null,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 12,
@@ -2133,7 +2661,13 @@
     "ncert_reference": "NCERT Class XII - Semiconductor Electronics",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 12,
@@ -2157,7 +2691,13 @@
     "ncert_reference": "NCERT Class XII - Current Electricity",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 3,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 13,
@@ -2181,7 +2721,13 @@
     "ncert_reference": "NCERT Class XII - Molecular Basis of Inheritance",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -2205,7 +2751,13 @@
     "ncert_reference": "NCERT Class XII - Molecular Basis of Inheritance",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 3,
+    "student_marked_option": null,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 13,
@@ -2229,7 +2781,13 @@
     "ncert_reference": "NCERT Class XII - Molecular Basis of Inheritance",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 13,
@@ -2253,7 +2811,13 @@
     "ncert_reference": "NCERT Class XII - Molecular Basis of Inheritance",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -2277,7 +2841,13 @@
     "ncert_reference": "NCERT Class XII - Molecular Basis of Inheritance",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -2301,7 +2871,13 @@
     "ncert_reference": "NCERT Class XI - Respiration in Plants",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -2325,7 +2901,13 @@
     "ncert_reference": "NCERT Class XI - Respiration in Plants",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -2349,7 +2931,13 @@
     "ncert_reference": "NCERT Class XI - The Living World",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 13,
@@ -2373,7 +2961,13 @@
     "ncert_reference": "NCERT Class XI - Plant Kingdom",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2397,7 +2991,13 @@
     "ncert_reference": "NCERT Class XII - Sexual Reproduction in Flowering Plants",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2421,7 +3021,13 @@
     "ncert_reference": "NCERT Class XII - Biodiversity and Conservation",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2445,7 +3051,13 @@
     "ncert_reference": "NCERT Class XII - Sexual Reproduction in Flowering Plants",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2460,16 +3072,22 @@
       "1": "India - Lesser ecosystem diversity than Scandinavian countries",
       "2": "Western Ghats - High degree of endemism",
       "3": "East Africa - Clarias gariepinus was introduced in the lake Victoria as predator",
-      "4": "Temperate region - lies at 71\u00b0 N"
+      "4": "Temperate region - lies at 71° N"
     },
     "correct_option": 2,
-    "explanation": "1. India has GREATER ecosystem diversity than Scandinavia (Norway).\n2. Western Ghats is a biodiversity hotspot with a very high degree of endemism. (Correct)\n3. Nile perch was introduced in Lake Victoria, not Clarias (which is the invasive catfish in India).\n4. 71\u00b0 N is in the Arctic/Tundra zone, not temperate.",
+    "explanation": "1. India has GREATER ecosystem diversity than Scandinavia (Norway).\n2. Western Ghats is a biodiversity hotspot with a very high degree of endemism. (Correct)\n3. Nile perch was introduced in Lake Victoria, not Clarias (which is the invasive catfish in India).\n4. 71° N is in the Arctic/Tundra zone, not temperate.",
     "rough_work_audit": "No rough work.",
     "difficulty": "Easy",
     "ncert_reference": "NCERT Class XII - Biodiversity and Conservation",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2493,7 +3111,13 @@
     "ncert_reference": "NCERT Class XI - Plant Growth and Development",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2517,7 +3141,13 @@
     "ncert_reference": "NCERT Class XI - Plant Growth and Development",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2541,7 +3171,13 @@
     "ncert_reference": "NCERT Class XI - Excretory Products",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 14,
@@ -2565,7 +3201,13 @@
     "ncert_reference": "NCERT Class XII - Evolution",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2589,7 +3231,13 @@
     "ncert_reference": "NCERT Class XII - Evolution",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2613,7 +3261,13 @@
     "ncert_reference": "NCERT Class XI - Neural Control and Coordination",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2637,7 +3291,13 @@
     "ncert_reference": "NCERT Class XI - Neural Control and Coordination",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2661,7 +3321,13 @@
     "ncert_reference": "NCERT Class XI - Body Fluids and Circulation",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2685,7 +3351,13 @@
     "ncert_reference": "NCERT Class XI - Animal Kingdom",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2709,7 +3381,13 @@
     "ncert_reference": "NCERT Class XII - Biotechnology and its Applications",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2733,7 +3411,13 @@
     "ncert_reference": "NCERT Class XI - Animal Kingdom",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 15,
@@ -2757,7 +3441,13 @@
     "ncert_reference": "NCERT Class XI - Excretory Products",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2781,7 +3471,13 @@
     "ncert_reference": "NCERT Class XI - Morphology of Flowering Plants",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 15,
@@ -2805,7 +3501,13 @@
     "ncert_reference": "NCERT Class XII - Ecosystem",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2829,7 +3531,13 @@
     "ncert_reference": "NCERT Class XII - Ecosystem",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2853,7 +3561,13 @@
     "ncert_reference": "NCERT Class XI - Morphology of Flowering Plants",
     "student_answer": null,
     "question_paper": "cst-02a",
-    "result": "Not Attempted"
+    "result": "Not Attempted",
+    "official_option": 1,
+    "student_marked_option": null,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "UNATTEMPTED",
+    "marks_awarded": 0
   },
   {
     "page_no": 16,
@@ -2877,7 +3591,13 @@
     "ncert_reference": "NCERT Class XI - Morphology of Flowering Plants",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2901,7 +3621,13 @@
     "ncert_reference": "NCERT Class XI - Biological Classification",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2925,7 +3651,13 @@
     "ncert_reference": "NCERT Class XI - Biological Classification",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2949,7 +3681,13 @@
     "ncert_reference": "NCERT Class XI - Biological Classification",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 2,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 16,
@@ -2973,7 +3711,13 @@
     "ncert_reference": "NCERT Class XI - Plant Kingdom",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 1,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -2997,7 +3741,13 @@
     "ncert_reference": "NCERT Class XI - Plant Kingdom",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 16,
@@ -3021,7 +3771,13 @@
     "ncert_reference": "NCERT Class XI - Plant Kingdom / Biological Classification",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3045,7 +3801,13 @@
     "ncert_reference": "NCERT Class XI - Cell Cycle and Cell Division",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3069,7 +3831,13 @@
     "ncert_reference": "NCERT Class XI - Cell Cycle and Cell Division",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 4,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3093,7 +3861,13 @@
     "ncert_reference": "NCERT Class XI - Cell Cycle and Cell Division",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3117,7 +3891,13 @@
     "ncert_reference": "NCERT Class XII - Microbes in Human Welfare",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3141,7 +3921,13 @@
     "ncert_reference": "NCERT Class XII - Strategies for Enhancement in Food Production",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3165,7 +3951,13 @@
     "ncert_reference": "NCERT Class XI - Body Fluids and Circulation",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3189,7 +3981,13 @@
     "ncert_reference": "NCERT Class XII - Biotechnology: Principles and Processes",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3213,7 +4011,13 @@
     "ncert_reference": "NCERT Class XII - Biotechnology: Principles and Processes",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 17,
@@ -3237,7 +4041,13 @@
     "ncert_reference": "NCERT Class XII - Biotechnology: Principles and Processes",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 18,
@@ -3261,7 +4071,13 @@
     "ncert_reference": "NCERT Class XII - Biotechnology: Principles and Processes",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -3285,7 +4101,13 @@
     "ncert_reference": "NCERT Class XII - Biotechnology: Principles and Processes",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -3309,7 +4131,13 @@
     "ncert_reference": "NCERT Class XI - Animal Kingdom",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -3333,7 +4161,13 @@
     "ncert_reference": "NCERT Class XI - Animal Kingdom",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -3357,7 +4191,13 @@
     "ncert_reference": "NCERT Class XII - Human Health and Disease",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -3381,7 +4221,13 @@
     "ncert_reference": "NCERT Class XII - Human Health and Disease",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -3405,7 +4251,13 @@
     "ncert_reference": "NCERT Class XII - Human Health and Disease",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 18,
@@ -3429,7 +4281,13 @@
     "ncert_reference": "NCERT Class XII - Human Health and Disease",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3453,7 +4311,13 @@
     "ncert_reference": "NCERT Class XI - Structural Organisation in Animals",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3477,7 +4341,13 @@
     "ncert_reference": "NCERT Class XI - Excretory Products",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3501,7 +4371,13 @@
     "ncert_reference": "NCERT Class XII - Human Reproduction",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3525,7 +4401,13 @@
     "ncert_reference": "NCERT Class XII - Human Reproduction",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3549,7 +4431,13 @@
     "ncert_reference": "NCERT Class XII - Human Reproduction",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3573,7 +4461,13 @@
     "ncert_reference": "NCERT Class XII - Human Reproduction",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3597,7 +4491,13 @@
     "ncert_reference": "NCERT Class XI - Chemical Coordination",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 19,
@@ -3621,7 +4521,13 @@
     "ncert_reference": "NCERT Class XI - Chemical Coordination",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3645,7 +4551,13 @@
     "ncert_reference": "NCERT Class XII - Reproductive Health",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3669,7 +4581,13 @@
     "ncert_reference": "NCERT Class XII - Reproductive Health",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3693,7 +4611,13 @@
     "ncert_reference": "NCERT Class XI - Structural Organisation in Animals",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3717,7 +4641,13 @@
     "ncert_reference": "NCERT Class XII - Biotechnology and its Applications",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3741,7 +4671,13 @@
     "ncert_reference": "NCERT Class XII - Microbes in Human Welfare",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3765,7 +4701,13 @@
     "ncert_reference": "NCERT Class XII - Organisms and Populations",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 20,
@@ -3789,7 +4731,13 @@
     "ncert_reference": "NCERT Class XII - Organisms and Populations",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 20,
@@ -3813,7 +4761,13 @@
     "ncert_reference": "NCERT Class XII - Principles of Inheritance and Variation",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3837,7 +4791,13 @@
     "ncert_reference": "NCERT Class XII - Principles of Inheritance and Variation",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3861,7 +4821,13 @@
     "ncert_reference": "NCERT Class XII - Principles of Inheritance and Variation",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3885,7 +4851,13 @@
     "ncert_reference": "NCERT Class XII - Principles of Inheritance and Variation",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3909,7 +4881,13 @@
     "ncert_reference": "NCERT Class XI - Photosynthesis in Higher Plants",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 4,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 21,
@@ -3933,7 +4911,13 @@
     "ncert_reference": "NCERT Class XI - Photosynthesis in Higher Plants",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3957,7 +4941,13 @@
     "ncert_reference": "NCERT Class XI - Cell: The Unit of Life",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 2,
+    "student_marked_option": 3,
+    "final_correct_option": null,
+    "reconciliation_status": "BONUS",
+    "student_result": "BONUS",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -3981,7 +4971,13 @@
     "ncert_reference": "NCERT Class XI - Cell: The Unit of Life",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 21,
@@ -4005,7 +5001,13 @@
     "ncert_reference": "NCERT Class XI - Cell: The Unit of Life",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -4029,7 +5031,13 @@
     "ncert_reference": "NCERT Class XI - Locomotion and Movement",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -4053,7 +5061,13 @@
     "ncert_reference": "NCERT Class XI - Breathing and Exchange of Gases",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 22,
@@ -4077,7 +5091,13 @@
     "ncert_reference": "NCERT Class XI - Digestion and Absorption",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 3,
+    "student_marked_option": 3,
+    "final_correct_option": 3,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -4101,7 +5121,13 @@
     "ncert_reference": "NCERT Class XI - Locomotion and Movement",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 2,
+    "final_correct_option": 2,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -4125,7 +5151,13 @@
     "ncert_reference": "NCERT Class XI - Body Fluids and Circulation",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 2,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 22,
@@ -4149,7 +5181,13 @@
     "ncert_reference": "NCERT Class XI - Neural Control / Structural Organisation (Frog)",
     "student_answer": 3,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 3,
+    "student_marked_option": 2,
+    "final_correct_option": 3,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 22,
@@ -4173,7 +5211,13 @@
     "ncert_reference": "NCERT Class XI - Locomotion and Movement",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 1,
@@ -4191,13 +5235,19 @@
       "4": "Glucose and water"
     },
     "correct_option": 2,
-    "explanation": "The medullary gradient is mainly caused by NaCl and urea. NaCl is transported by the ascending limb of Henle\u2019s loop which is exchanged with the descending limb of vasa recta. Small amounts of urea enter the thin segment of the ascending limb of Henle\u2019s loop.",
+    "explanation": "The medullary gradient is mainly caused by NaCl and urea. NaCl is transported by the ascending limb of Henle’s loop which is exchanged with the descending limb of vasa recta. Small amounts of urea enter the thin segment of the ascending limb of Henle’s loop.",
     "rough_work_audit": "No rough work.",
     "difficulty": "Easy",
     "ncert_reference": "NCERT Class XI - Excretory Products",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 2,
+    "student_marked_option": 1,
+    "final_correct_option": 2,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 22,
@@ -4221,7 +5271,13 @@
     "ncert_reference": "NCERT Class XI - Locomotion and Movement",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 1,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 22,
@@ -4245,7 +5301,13 @@
     "ncert_reference": "NCERT Class XI - Biomolecules",
     "student_answer": 4,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 4,
+    "student_marked_option": 4,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "CORRECT",
+    "marks_awarded": 4
   },
   {
     "page_no": 23,
@@ -4269,7 +5331,13 @@
     "ncert_reference": "NCERT Class XI - Biomolecules",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 2,
+    "final_correct_option": 4,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 23,
@@ -4293,7 +5361,13 @@
     "ncert_reference": "NCERT Class XI - Biomolecules",
     "student_answer": 1,
     "question_paper": "cst-02a",
-    "result": "Correct"
+    "result": "Correct",
+    "official_option": 1,
+    "student_marked_option": 4,
+    "final_correct_option": 1,
+    "reconciliation_status": "AGREE",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   },
   {
     "page_no": 23,
@@ -4317,6 +5391,12 @@
     "ncert_reference": "NCERT Class XI - Biomolecules",
     "student_answer": 2,
     "question_paper": "cst-02a",
-    "result": "Incorrect"
+    "result": "Incorrect",
+    "official_option": 4,
+    "student_marked_option": 2,
+    "final_correct_option": 4,
+    "reconciliation_status": "KEY_UPHELD",
+    "student_result": "WRONG",
+    "marks_awarded": -1
   }
 ]
